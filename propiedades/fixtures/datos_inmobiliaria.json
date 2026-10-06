@@ -1,0 +1,40 @@
+[
+  {
+    "model": "propiedades.region",
+    "pk": 1,
+    "fields": {
+      "nombre": "Región Metropolitana de Santiago"
+    }
+  },
+  {
+    "model": "propiedades.comuna",
+    "pk": 1,
+    "fields": {
+      "nombre": "Santiago",
+      "region": 1
+    }
+  },
+  {
+    "model": "propiedades.tipoinmueble",
+    "pk": 1,
+    "fields": {
+      "nombre": "Departamento"
+    }
+  },
+  {
+    "model": "propiedades.inmueble",
+    "pk": 1,
+    "fields": {
+      "nombre": "Depto céntrico",
+      "descripcion": "Hermoso departamento cerca del metro",
+      "m2_construidos": 50,
+      "m2_totales": 55,
+      "estacionamientos": 1,
+      "habitaciones": 2,
+      "bano": 1,
+      "direccion": "Alameda 123",
+      "comuna": 1,
+      "tipo_inmueble": 1
+    }
+  }
+]

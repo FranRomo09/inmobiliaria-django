@@ -1,0 +1,6 @@
+=== REPORTE DE INMUEBLES POR REGIÓN ===
+
+Región: Región Metropolitana de Santiago | Comuna: Santiago
+  - Nombre: Depto céntrico
+  - Descripción: Hermoso departamento cerca del metro
+----------------------------------------

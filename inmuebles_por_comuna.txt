@@ -1,0 +1,6 @@
+=== REPORTE DE INMUEBLES POR COMUNA ===
+
+Comuna: Santiago
+  - Nombre: Depto céntrico
+  - Descripción: Hermoso departamento cerca del metro
+----------------------------------------
